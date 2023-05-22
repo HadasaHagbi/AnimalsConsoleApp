@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\bin\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.exe
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\bin\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.deps.json
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\bin\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.runtimeconfig.json
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\bin\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.dll
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\bin\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.pdb
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.AssemblyInfo.cs
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.dll
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\refint\ConsoleAppAnimalsHadasaHagbi.dll
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.pdb
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\ConsoleAppAnimalsHadasaHagbi.genruntimeconfig.cache
+C:\Users\user1\Desktop\חיפוש עבודה\ConsoleAppAnimalsHadasaHagbi\ConsoleAppAnimalsHadasaHagbi\obj\Debug\net6.0\ref\ConsoleAppAnimalsHadasaHagbi.dll
